@@ -16,3 +16,4 @@ $ "C:\Program Files\MongoDB\Server\3.4\bin\mongo.exe"
 ```
 $ "C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" --storageEngine=mmapv1 --config "D:\mongo\etc\mongo.cfg"
 ```
+5. For Win 32, this may be helpful: [here](http://stackoverflow.com/questions/26585433/mongodb-failed-to-connect-to-127-0-0-127017-reason-errno10061)
